@@ -1,4 +1,4 @@
-#AppID Scanner
+# AppID Scanner
 A tool for Linux users to scan their Steam compatdata/common folder and convert folder appIDs into human-parsable game names. 
 
 ## Todo:
